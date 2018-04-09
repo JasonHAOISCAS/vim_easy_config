@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/etc/apt/preferences.d'
+let g:netrw_dirhist_2='/home/iscas/.vim/colors'
+let g:netrw_dirhist_3='/home/iscas/Workspace/android_6/out/target/product/shamu/system/api'
